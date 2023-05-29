@@ -3,9 +3,12 @@
 
 ### :woman_technologist: About Me :
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
+
 - :telescope: I’m looking for work and possess a strong passion and drive to develop my skills and excel in the field.
 
 - :seedling: I’m currently learning React Native and practice React.
+
+- :house: I’m based in Prague, Czech Republic.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anastasiia-koretska-558bba233//)
 
